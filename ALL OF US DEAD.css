@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    color: #000;
+    background-color: black;
+}
+
+.header{
+    color: white;
+    background-color: black;
+}
+
+.movie{
+    padding: 5px;
+    margin: 20px;
+}
+
+.part{
+    color: white;
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+}
+
+.vedio{
+    align-items: center;
+}
+
+.p{
+    padding: 2px;
+    margin: 1px;
+    background-size: 80px;
+    background-color: black;
+    color: white;
+    box-sizing: content-box;
+}
